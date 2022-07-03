@@ -1,1 +1,1 @@
-# CSS Training Layout Legal
+# SCSS Training Responsive Layout
